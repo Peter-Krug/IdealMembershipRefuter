@@ -1,0 +1,2 @@
+pysat
+operator_gb@ git+https://github.com/ClemensHofstadler/operator_gb.git@main#egg=operator_gb

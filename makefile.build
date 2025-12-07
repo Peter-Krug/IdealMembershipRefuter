@@ -1,0 +1,11 @@
+install:
+	sage -pip install --upgrade --no-index .
+
+test:
+	sage -t polynomials/
+
+doc:
+	cd docs && make html
+
+doc-pdf:
+	cd docs && make latexpdf

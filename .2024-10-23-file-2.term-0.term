@@ -1,0 +1,22 @@
+]0;~/Disproving[01;34m~/Disproving[00m$ sage -pip install git+https://github.com/ClemensHofstadler/operator_gb.git
+Defaulting to user installation because normal site-packages is not writeable
+Collecting git+https://github.com/ClemensHofstadler/operator_gb.git
+  Cloning https://github.com/ClemensHofstadler/operator_gb.git to /tmp/pip-req-build-ji2k982g
+  Running command git clone --filter=blob:none --quiet https://github.com/ClemensHofstadler/operator_gb.git /tmp/pip-req-build-ji2k982g
+  Resolved https://github.com/ClemensHofstadler/operator_gb.git to commit ad10d841ac2914205e8a8d14bedac8d3196d916c
+  Preparing metadata (setup.py) ... [?25l- \ | / - \ done
+[?25hCollecting pyahocorasick==2.0.0 (from operator_gb==1.0)
+  Downloading pyahocorasick-2.0.0.tar.gz (99 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/99.7 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;5;70m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m99.7/99.7 kB[0m [31m5.1 MB/s[0m eta [36m0:00:00[0m
+[?25h  Preparing metadata (setup.py) ... [?25l- \ | / done
+[?25hBuilding wheels for collected packages: operator_gb, pyahocorasick
+  Building wheel for operator_gb (setup.py) ... [?25l- \ | / - \ | / done
+[?25h  Created wheel for operator_gb: filename=operator_gb-1.0-cp312-cp312-linux_x86_64.whl size=249261 sha256=7fc25f9eaa3d83b3555cb480b31e4e0ee1c3e5da713ee15064c0a6f748c5253d
+  Stored in directory: /tmp/pip-ephem-wheel-cache-qzdoqt32/wheels/c2/ed/6e/94abb9edfed0b9c82caabdd2dfff23007c370bf9204a5b8b37
+  Building wheel for pyahocorasick (setup.py) ... [?25l- \ | / - \ | / - done
+[?25h  Created wheel for pyahocorasick: filename=pyahocorasick-2.0.0-cp312-cp312-linux_x86_64.whl size=103424 sha256=79bb432a0050575db0452baea423361773cd7ccdcf659828f43dcb1bc7c29759
+  Stored in directory: /tmp/pip-ephem-wheel-cache-qzdoqt32/wheels/e0/0f/54/71e8c05dc249fdfb9caaabaaa085515779b6041463d7ddc8b2
+Successfully built operator_gb pyahocorasick
+Installing collected packages: pyahocorasick, operator_gb
+Successfully installed operator_gb-1.0 pyahocorasick-2.0.0
+]0;~/Disproving[01;34m~/Disproving[00m$ 

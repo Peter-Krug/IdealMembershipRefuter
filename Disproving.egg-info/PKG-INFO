@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Disproving
+Version: 1.0
+Summary: Disproving ideal membership via sat solvers
+Author: Peter Krug
+Author-email: p98krug.pk@gmx.de
+Requires-Dist: pysat
+Requires-Dist: operator_gb@ git+https://github.com/ClemensHofstadler/operator_gb.git@main#egg=operator_gb
