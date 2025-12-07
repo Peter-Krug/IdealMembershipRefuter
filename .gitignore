@@ -1,5 +1,0 @@
-*.term
-.ipynb_checkpoints/
-_pycache_/
-build/
-Disproving.egg-info
