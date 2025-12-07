@@ -1,6 +1,0 @@
-setup.py
-Disproving.egg-info/PKG-INFO
-Disproving.egg-info/SOURCES.txt
-Disproving.egg-info/dependency_links.txt
-Disproving.egg-info/requires.txt
-Disproving.egg-info/top_level.txt
